@@ -21,6 +21,7 @@ body
 canvas
 {
     border: 10px ridge cornflowerblue;
-    box-shadow: 10px 10px 20px tomato;
+    box-shadow: 40px 40px 80px royalblue;
     margin-top: 160px;
+    
 }
